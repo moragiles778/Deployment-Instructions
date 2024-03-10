@@ -1,0 +1,26 @@
+{
+"name": "zuihaodebaobeidaima666-ailove",
+"version": "1.0.0",
+"description": "Deployment of the project is straightforward. You can quickly complete the deployment work according to the instructions we provide.",
+"main": "index.js",
+"scripts": {},
+"repository": {
+"type": "git",
+"url": "https://github.com/moragiles778/Deployment-Instructions.git"
+},
+"keywords": [
+"sample",
+"npm",
+"package"
+],
+"author": "moragiles778",
+"license": "MIT",
+"dependencies": {
+"lodash": "^4.17.21",
+"axios": "^0.21.1"
+},
+"peerDependencies": {
+"react": ">=16.8.0",
+"react-dom": ">=16.8.0"
+}
+}
